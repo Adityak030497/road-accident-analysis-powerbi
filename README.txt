@@ -83,11 +83,6 @@ Data Modeling & Relationships
 
 Interactive Visualizations & Filters
 
-📸 Dashboard Preview
-🔹 Dashboard Overview
-
-🔹 Data Model
-
 📂 Dataset
 
 The dataset contains structured road accident records for 2021–2022, including:
@@ -103,8 +98,6 @@ Area (Urban/Rural)
 Light conditions
 
 Geographic location data
-
-(Add dataset source link here if publicly available.)
 
 📌 Business Recommendations
 
@@ -131,3 +124,4 @@ Introduce predictive modeling for accident trend forecasting
 Aditya Kumar
 
 Aspiring Data Analyst
+
