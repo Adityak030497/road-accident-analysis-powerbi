@@ -128,5 +128,6 @@ Introduce predictive modeling for accident trend forecasting
 
 👤 Author
 
-[Your Name]
+Aditya Kumar
+
 Aspiring Data Analyst
